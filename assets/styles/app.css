@@ -21,7 +21,7 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 0 2.5rem;
-  background: #00329e;
+  background: #3de389;
 }
 
 header h1 {
@@ -33,8 +33,8 @@ header h1 {
 header button {
   font: inherit;
   padding: 0.5rem 1rem;
-  background: #f67722;
-  border: 1px solid #f67722;
+  background: #268da5;
+  border: 1px solid #6fcbe1;
   color: white;
   border-radius: 6px;
   box-shadow: 0 1px 8px rgba(0, 0, 0, 0.26);
